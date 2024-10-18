@@ -468,7 +468,7 @@ menu_add_connector() {
     update_connectors
     listUpdates=("dummy")
     clear
-    echo -e "${fontWhite}${fontBold}${fontUnderline}Add/Replace a connnector:${fontReset}"
+    echo -e "${fontWhite}${fontBold}${fontUnderline}Add/Replace a connector:${fontReset}"
     echo ""
     echo -e "${fontYellow}0.${fontReset} Back"
     for i in "${!jsonFiles[@]}"; do
