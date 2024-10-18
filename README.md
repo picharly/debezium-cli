@@ -36,3 +36,15 @@ Run the script and follow the interactive prompts to manage your Debezium connec
 
 ```bash
 ./debezium-cli.sh
+```
+
+## Screenshots
+
+### Main Menu
+![Alt text](main_menu.png)
+
+### Add/Update a Connector
+![Alt text](add_connector.png)
+
+### Manage a Connector
+![Alt text](manage.png)
