@@ -1,4 +1,4 @@
-# Debezium Connector Management Script
+# Debezium Client - Connector Management Script
 
 ## Purpose
 
